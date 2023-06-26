@@ -1,7 +1,7 @@
 1.git init
 2.git config user.email "eunycewang@gmail.com"
 3.git add .
-4.git commit -m "first commit"
+4.git commit -m "simple steps to calculate area using python"
 5. git remote add origin https://github.com/Eunicedeveloper/Pythonprogramming.git
 6.git push -u origin master
 
