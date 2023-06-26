@@ -5,3 +5,7 @@
 5. replace with yours - git remote add origin https://github.com/devtedke/devtedke.git
 6.git push -u origin master
 
+ ----after deployment---
+ git add .
+ git commit -m " months calculator"
+ git push -u origin master
